@@ -1,0 +1,4 @@
+gradio
+transformers
+torchvision
+PySide6-Fluent-Widgets[full]
